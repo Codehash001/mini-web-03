@@ -23,7 +23,7 @@ function Midcontent() {
       <div className="text-center flex flex-col items-center font-Kanit w-full">
         <h1 className="text-white text-sm md:text-[40px] mt-10">Collection Name</h1>
         <h1 className="text-white text-sm md:text-[20px] mt-5">Some text some text</h1>
-   
+   </div>
     <div class="w-screen p-4 bg-blue-200 grid grid-cols-1 md:grid-cols-2 lg:grid-cols-5 mt-10">
   <div className='w-auto h-auto'>
   <img src='/skelee-head-footer.png'/>
