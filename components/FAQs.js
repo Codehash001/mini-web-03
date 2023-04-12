@@ -49,7 +49,7 @@ export default function FAQs() {
       <Accordion open={open === 3} animate={customAnimation}>
         <AccordionHeader className='w-full flex flex-col items-start text-start mx-[-10px] border-b border-white text-[21px]'>
           <div className="w-full flex justify-between">
-            <h1 className='uppercase'>Qewstion</h1>
+            <h1 className='uppercase'>Question</h1>
             <div>{open == 3 ?
             (
               <svg onClick={() => handleOpen(3)}  xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" className="fill-white"><path d="M5 11h14v2H5z"></path></svg>
