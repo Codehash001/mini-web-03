@@ -6,7 +6,7 @@ function Midcontent() {
     <div className="flex flex-row justify-center items-center mt-[-200px] text-white">
     
   <div className='w-full flex flex-col items-center justify-between overflow-hidden my-4'> 
-  <div class="w-screen p-4 bg-blue-200 grid grid-cols-1 md:grid-cols-2 lg:grid-cols-5 mt-16">
+  <div class="w-screen p-4 bg-blue-200 grid grid-cols-5 mt-16">
 
   <img src='/skelee-head-footer.png'/>
   <img src='/skelee-head-footer.png'/>
@@ -24,7 +24,7 @@ function Midcontent() {
         <h1 className="text-white text-sm md:text-[40px] mt-10">Collection Name</h1>
         <h1 className="text-white text-sm md:text-[28px] mt-5">Some text some text</h1>
    </div>
-    <div class="w-screen p-4 bg-blue-200 grid grid-cols-1 md:grid-cols-2 lg:grid-cols-5 mt-10">
+    <div class="w-screen p-4 bg-blue-200 grid grid-cols-5 mt-10">
 
   <img src='/skelee-head-footer.png'/>
   <img src='/skelee-head-footer.png'/>
