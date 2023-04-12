@@ -23,7 +23,7 @@ const ArrowClickedHnadler= () => {
         <link rel="icon" href="/favicon.png" />
       </Head>
       
-        <div className="h-screen w-screen fixed top-0 -z-10 bg-cover bg-blue-400 bg-center">
+        <div className="h-screen w-screen fixed top-0 -z-10 bg-cover bg-blue-800 bg-center">
 
         </div>
         {/* <img

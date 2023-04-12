@@ -3,7 +3,7 @@ import FAQs from "../components/FAQs";
 
 function Midcontent() {
   return (
-    <div className="flex flex-row justify-center items-center py-8 text-white">
+    <div className="flex flex-row justify-center items-center mt-[-100px] text-white">
     
   <div className='w-full flex flex-col items-center justify-between overflow-hidden my-4'> 
   <div class="w-screen p-4 bg-blue-200 grid grid-cols-1 md:grid-cols-2 lg:grid-cols-5 mt-16">
@@ -41,8 +41,8 @@ function Midcontent() {
   
   <FAQs/>
        
-        <button className='text-white font-semibold bg-gradient-to-r from-purple-500 to-pink-500 hover:bg-gradient-to-l focus:ring-4 focus:outline-none focus:ring-purple-200 dark:focus:ring-purple-800 rounded-md text-sm p-6 text-center'>
-        View On opensea
+        <button className='text-white font-semibold bg-gradient-to-r from-purple-500 to-pink-500 hover:bg-gradient-to-l focus:ring-4 focus:outline-none focus:ring-purple-200 dark:focus:ring-purple-800 rounded-lg text-lg px-8 py-4  mt-6 text-center'>
+        View On opensea >
         </button>
       </div>
     </div>
