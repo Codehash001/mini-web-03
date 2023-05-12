@@ -3,48 +3,14 @@ import FAQs from "../components/FAQs";
 
 function Midcontent() {
   return (
-    <div className="flex flex-row justify-center items-center mt-[-200px] text-white">
-    
-  <div className='w-full flex flex-col items-center justify-between overflow-hidden my-4'> 
-  <div class="w-screen p-4 bg-blue-200 grid grid-cols-5 mt-16">
-
-  <img src='/skelee-head-footer.png'/>
-  <img src='/skelee-head-footer.png'/>
-  <img src='/skelee-head-footer.png'/>
-  <img src='/skelee-head-footer.png'/>
-  <img src='/skelee-head-footer.png'/>
-  <img src='/skelee-head-footer.png'/>
-  <img src='/skelee-head-footer.png'/>
-  <img src='/skelee-head-footer.png'/>
-  <img src='/skelee-head-footer.png'/>
-  <img src='/skelee-head-footer.png'/>
-
-  </div>
-      <div className="text-center flex flex-col items-center font-Kanit w-full py-16">
-        <h1 className="text-white text-sm md:text-[40px] mt-10">Collection Name</h1>
-        <h1 className="text-white text-sm md:text-[28px] mt-5">Some text some text</h1>
-   </div>
-    <div class="w-screen p-4 bg-blue-200 grid grid-cols-5 mt-10">
-
-  <img src='/skelee-head-footer.png'/>
-  <img src='/skelee-head-footer.png'/>
-  <img src='/skelee-head-footer.png'/>
-  <img src='/skelee-head-footer.png'/>
-  <img src='/skelee-head-footer.png'/>
-  <img src='/skelee-head-footer.png'/>
-  <img src='/skelee-head-footer.png'/>
-  <img src='/skelee-head-footer.png'/>
-  <img src='/skelee-head-footer.png'/>
-  <img src='/skelee-head-footer.png'/>
-
-  </div>
-  
-  <FAQs/>
-       
-        <button className='text-white font-semibold bg-gradient-to-r from-purple-500 to-pink-500 hover:bg-gradient-to-l focus:ring-4 focus:outline-none focus:ring-purple-200 dark:focus:ring-purple-800 rounded-lg text-lg px-8 py-4  mt-6 text-center'>
-        View on Opensea &gt;
-        </button>
-      </div>
+    <div className="flex flex-col items-center justify-center relative bg-bg1 bg-center bg-no-repeat h-[600px] space-y-10">
+      <h1 className="text-white text-center text-3xl">
+        <span className=" font-bold">TURBO TOAD NFT </span> holders are granted commercial rights
+        <br/> and a 3D playable character for future gaming events.
+      </h1>
+      <h1 className="text-white text-center text-4xl">
+        The Turbo Toad NFT license is here.
+      </h1>
     </div>
   );
 }

@@ -31,8 +31,8 @@ module.exports = {
       },
       backgroundImage:
         {
-          'bg1' : 'url("https://s2.gifyu.com/images/skelee-homepage-button.png")',
-          'bg2' : 'url("https://s2.gifyu.com/images/galactaverse-mobile.png")'
+          'bg1' : 'url("../public/TurboToads/turbotoadnft-middle-section-banner.png")',
+          'bg2' : 'url("../public/TurboToads/turbotoadnft-footer-banner.png")'
           
         }
 
